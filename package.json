@@ -1,0 +1,13 @@
+{
+  "name": "betters-npm-pkg",
+  "version": "2.0.1",
+  "description": "Bitters from Thoughtbot but Better.",
+  "main": "index.js",
+  "author": "Matt Daniel Brown <dev@mattbrown.email>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bourbon": "6.0.0",
+    "modern-normalize": "0.5.0"
+  }
+}
